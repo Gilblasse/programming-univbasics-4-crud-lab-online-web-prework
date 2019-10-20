@@ -31,9 +31,9 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  first_element_of_array = array.shift()
+  last_element_of_array = array.pop()
 end
 
 def update_element_from_index(array, index_number, element)
-
+  
 end
